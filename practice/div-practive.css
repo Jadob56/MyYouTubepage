@@ -1,0 +1,183 @@
+.squar{
+  background: #ee0606;
+  width: 80px;
+  height: 80px;
+  display: inline-block;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+.circle{
+  background: #ee0606;
+  width: 80px;
+  height: 80px;
+  display: inline-block;
+  border-radius: 50%;
+}
+.design-1{
+  border: 1px solid rgb(214, 182, 182);
+  width: 300px;
+  padding-left: 5px;
+  padding-bottom:5px ;
+  margin-bottom: 20px;
+  margin-left: 10px;
+  margin-right: 20px;
+  margin-top: 20px;
+  
+  display: block;
+}
+.desing-2{
+  border: 1px solid rgb(214, 182, 182);
+  width: 350px;
+  padding-left: 10px;
+  /* padding-bottom:5px ; */
+  color: white;
+  background: #2e2929;
+  display: block;
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+.p-1{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+.p-2{
+  font-size: 13px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(179, 139, 139);
+}
+/* 9e.... */
+.e{
+  box-shadow: 5px 5px 10px rgba(207, 31, 31, 0.5);
+  width:350px ;
+  padding: 10px 10px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+.image-1{
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  border-radius: 50%;
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+.cat-stats{
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 70px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+}
+.cat-button{
+  color: white;
+  background: rgb(74, 74, 175);
+  border-radius: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  border: none;
+  padding: 5px 10px;
+  vertical-align: middle;
+  cursor: pointer;
+  transition: 0.15s;
+}
+
+.cat-button:active{
+  background: rgb(98, 98, 172);
+}
+
+/* f...... */
+.profile{
+  width: 150px;
+  background: white;
+  box-shadow: 5px 5px 10px rgba(207, 31, 31, 0.5);
+  padding: 10px;
+  display: inline-block;
+}
+.profile-picture{
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  object-position: top;
+  margin-bottom: 0;
+  mar
+}
+.name{
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: 5px;
+  margin-top: 0;
+}
+.mutual-friends{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  margin-bottom: 5px;
+  margin-top: 0;
+}
+.add-friend-button{
+  display: inline-block;
+  margin-top: 0;
+  margin-top: 5px;
+  background: #5354c5;
+  border: none;
+  color: white;
+  border-radius: 5px;
+  padding: 5px 10px;
+}
+.add-friend-button:active{
+  background: rgb(98, 98, 172);
+}
+
+
+/* 9g............. */
+
+.g-profile{
+  width: 150px;
+  background: white;
+  box-shadow: 5px 5px 10px rgba(207, 31, 31, 0.5);
+  padding: 10px;
+  display: inline-block;
+  margin-right: 5px;
+}
+.profile-picture{
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  object-position: top;
+  margin-bottom: 0;
+  mar
+}
+.name{
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: 5px;
+  margin-top: 0;
+}
+.mutual-friends{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  margin-bottom: 5px;
+  margin-top: 0;
+}
+.add-friend-button{
+  display: inline-block;
+  margin-top: 0;
+  margin-top: 5px;
+  background: #5354c5;
+  border: none;
+  color: white;
+  border-radius: 5px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+.g{
+  width: 555px;
+  height: 300px;
+  background: white;
+  box-shadow: 5px 5px 10px rgba(207, 31, 31, 0.3);
+  padding: 10px;
+  margin-top: 20px;
+}
+

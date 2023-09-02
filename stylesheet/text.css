@@ -1,0 +1,46 @@
+p{
+  font-family:Roboto;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+.title{
+   font-weight: bold;
+   width: 280px;
+   line-height: 20px;
+   margin-bottom: 2px;
+}
+.video-stats{
+  font-size: 14px;
+  color:#606060;
+}
+.chanel-author{
+  font-size: 14px;
+  color:#606060;
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+.discription{
+  font-size: 14px;
+  color:#606060;
+  margin-bottom: 100px;
+  width: 280px;
+}
+.apple-text{
+  font-size: 14px;
+  color: white;
+  background: #e34140;
+  text-align: center;
+  padding: 16px 0;
+  margin-bottom: 40px;
+}
+.shop{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.shop:hover{
+  text-decoration: underline;
+  cursor: pointer;
+}
+.apple-text-footer{
+  font-size: 14px;
+  font-weight: 500;
+}

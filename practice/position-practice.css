@@ -1,0 +1,142 @@
+body{
+ margin-top: 0;
+ padding-bottom: 1000px;
+ padding-left: 80px;
+ padding-top: 60px;
+}
+.div-1{
+  background: #158dc5;
+  height: 200px;
+  width: 200px;
+  color: white;
+}
+.div-2{
+  background: #1f536b;
+  height: 200px;
+  width: 200px;
+  color: white;
+  position: relative;
+}
+.header{
+  top: 0;
+  position: fixed;
+  background: red;
+  color: white;
+  left: 0;
+  right: 0;
+  height: 50px;
+  z-index: 100;
+}
+.right-side-bar{
+  position: fixed;
+  background: rgb(78, 32, 32);
+  color: white;
+  left: 0;
+  width: 70px;
+  bottom: 0;
+  top: 50px;
+}
+.left-side-bar{
+  position: fixed;
+  background: rgb(155, 31, 31);
+  color: white;
+  right: 0;
+  width: 70px;
+  bottom: 0;
+  top: 50px;
+}
+.position-absulate{
+  position: absolute;
+  right: 5px;
+  bottom: 5px;
+  background: #000;
+  padding: 2px 4px;
+  border-radius: 2px;
+}
+
+.close-button{
+  background-color: black;
+  color: white;
+  position: absolute;
+  top: -18px;
+  left: -18px;
+  font-family: Arial;
+  font-size: 20px;
+  width: 45px;
+  height: 45px;
+  border-radius: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.stick-button{
+  background-color: gray;
+  position: fixed;
+  top: 80px;
+  right: 80px;
+  width: 320px;
+  height: 180px;
+}
+.video-timep {
+  background-color: black;
+  color: white;
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  font-family: Arial;
+  font-size: 18px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.challange-work{
+  background: #dbc9c9;
+  height: 300px;
+  width: 280px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position:absolute;
+  top:80px;
+  left: 300px;
+}
+.discount{
+  position: absolute;
+  background: #000;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  right: 0px;
+  top: 20px;
+  padding: 5px 10px;
+}
+.challange-work-2{
+  background: #dbc9c9;
+  height: 300px;
+  width: 280px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position:absolute;
+  top:450px;
+  left: 300px;
+}
+.cart{
+  position: absolute;
+  background: rgba(192, 209, 192, 0.5);
+  bottom: 0;
+  right: 0;
+  left: 0;
+  display: flex;
+  justify-content: center;
+  padding-top: 35px;
+  padding-bottom: 40px;
+}
+button{
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border: 1px solid black;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-right:8px;
+  padding-left:8px;
+}

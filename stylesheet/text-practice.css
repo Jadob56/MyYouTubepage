@@ -1,0 +1,19 @@
+p{
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 0;
+  margin-bottom: 0;
+  text-align: center;
+
+}
+.title{
+  font-weight: bolder;
+  font-size: 50px;
+ 
+}
+.video-status{
+   
+  margin-top: 8px;
+}
+.learn{
+  text-decoration: underline;
+}
